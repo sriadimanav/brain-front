@@ -12,7 +12,8 @@
     "tachyons": "^4.10.0"
   },
   "engines": {
-    "npm": "5.7.1"
+    "npm": "5.7.1",
+    "node": "10.6.0"
   },
   "scripts": {
     "start": "react-scripts start",
