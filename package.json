@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajv": "^6.5.2",
     "clarifai": "^2.8.0",
     "cross-spawn": "^6.0.5",
     "react": "^16.4.1",
