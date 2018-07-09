@@ -6,6 +6,7 @@
     "ajv": "^6.5.2",
     "clarifai": "^2.8.0",
     "cross-spawn": "^6.0.5",
+    "fsevents": "^1.2.4",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-particles-js": "^2.2.0",
